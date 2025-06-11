@@ -1,2 +1,2 @@
 # intro-python
-This is my first content intro to Python
+This is my first content intro to Python by Kenn
